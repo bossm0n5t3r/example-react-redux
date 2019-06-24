@@ -1,3 +1,10 @@
+# example-react-redux
+
+- References
+  - https://velopert.com/3533
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

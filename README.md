@@ -2,6 +2,7 @@
 
 - References
   - https://velopert.com/3533
+  - https://github.com/vlpt-playground/begin-redux
 
 ---
 

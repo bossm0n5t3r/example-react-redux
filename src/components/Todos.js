@@ -35,7 +35,7 @@ const Todos = ({ todos, input, onInsert, onToggle, onRemove, onChange }) => {
             <input value={input} onChange={onChange}/>
             <button onClick={onInsert}>추가</button>
             <ul>
-                { todoItems}
+                { todoItems }
             </ul>
         </div>
     );
